@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @JFHaddad1
 - 👀 I’m interested in transitioning out of the teaching profession and starting a new career in IT.
-- 🌱 I’m currently learning: Google IT Support Professional Certificate via Coursera and Responsive Web Design Certification via freeCodeCamp
+- 🌱 I’m currently learning: IBM Full Stack Software Developer via Coursera
+-    I completed learning - 
+-        Google IT Support Professional Certificate via Coursera 
+-        Responsive Web Design Certification via freeCodeCamp
+-        IT Fundamentals (ITF+) via CompTIA
 - 💞️ I’m looking to collaborate with anyone who needs support in accomplishing their goals.
 - 📫 How to reach me: email.mr.haddad@gmail.com
 
