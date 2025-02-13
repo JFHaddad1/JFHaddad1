@@ -2,11 +2,13 @@
 👀 I’m a former Construction Planner and Teacher who has transitioned into the IT Industry. <br />
 🌱 I’m currently studying for the CompTIA Security+ exam. <br />
 Certifications: 
--        IT Fundamentals (ITF+) via CompTIA
--        Google IT Support Professional Certificate via Coursera 
+-        CompTIA ITF+ via CompTIA
+-        Google IT Support Specialization Certificate via Coursera 
 -        Responsive Web Design Certification via freeCodeCamp
--        A+ via CompTIA
--        Network + via CompTIA
+-        Front-End Apps with React via Coursera
+-        CompTIA A+ via CompTIA
+-        CompTIA Network+ via CompTIA
+-        CompTIA IT Operations Specialist (CIOS) via CompTIA
 💞️ I’m looking to collaborate with anyone who needs support in accomplishing their goals. <br />
 📫 How to reach me: email.br3ak.f1x.repeat@gmail.com <br />
 
