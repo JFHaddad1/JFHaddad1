@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Hadad
 - 👀 I’m a former Construction Planner and Teacher who has transitioned into the IT Industry.
-- 🌱 I’m currently studying for the CompTIA Network+ exam and working through "The Big Boook of Small Python Projects" (ISBN-978-1-7185-0124-9)
+- 🌱 I’m currently studying for the CompTIA Network+ exam and working through "The Big Book of Small Python Projects" (ISBN-978-1-7185-0124-9)
 - Certifications: 
 -        IT Fundamentals (ITF+) via CompTIA
 -        Google IT Support Professional Certificate via Coursera 
