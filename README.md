@@ -8,7 +8,7 @@ Certifications:
 -        A+ via CompTIA
 -        Network + via CompTIA
 💞️ I’m looking to collaborate with anyone who needs support in accomplishing their goals. <br />
-📫 How to reach me: jfhaddad1@gmail.com <br />
+📫 How to reach me: email.br3ak.f1x.repeat@gmail.com <br />
 
 <!---
 JFHaddad1/JFHaddad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
