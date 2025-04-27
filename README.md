@@ -9,6 +9,8 @@ Certifications:
 -        CompTIA A+ via CompTIA
 -        CompTIA Network+ via CompTIA
 -        CompTIA IT Operations Specialist (CIOS) via CompTIA
+-        TryHackMe Pre Security Certificate
+-        Google Cybersecurity Certificate via Coursera
 💞️ I’m looking to collaborate with anyone who needs support in accomplishing their goals. <br />
 📫 How to reach me: email.br3ak.f1x.repeat@gmail.com <br />
 
